@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trevormundt
 - 👀 I’m interested in ... Front-End Web Development
-- 🌱 I’m currently learning ... practicing using Git and Webpack together on a Bootstrap Project.
+- 🌱 I’m currently learning ... Something New Everyday.
 - 💞️ I’m looking to collaborate on ... Hmm
 - 📫 How to reach me ... Hmm
 
