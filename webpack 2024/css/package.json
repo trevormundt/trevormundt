@@ -1,0 +1,35 @@
+{
+  "name": "project name",
+  "version": "1.0.0",
+  "description": "A descriptive description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "webpack serve",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevormundt/[insert_repository_name_here].git"
+  },
+  "keywords": [
+    "Webpack",
+    "HTML5",
+    "CSS3"
+  ],
+  "author": "Trevor Mundt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevormundt/[insert_repository_name_here]/issues"
+  },
+  "homepage": "https://github.com/trevormundt/[insert_repository_name_here]#readme",
+  "devDependencies": {
+    "css-loader": "^6.10.0",
+    "html-loader": "^5.0.0",
+    "html-webpack-plugin": "^5.6.0",
+    "mini-css-extract-plugin": "^2.8.0",
+    "webpack": "^5.90.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  }
+}
